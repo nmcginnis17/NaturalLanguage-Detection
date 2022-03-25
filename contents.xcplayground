@@ -3,5 +3,6 @@
     <pages>
         <page name='String Tokenizer'/>
         <page name='Untitled Page'/>
+        <page name='Parts of Speech'/>
     </pages>
 </playground>
